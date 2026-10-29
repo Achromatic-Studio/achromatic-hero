@@ -3,7 +3,7 @@
 Built files of the interactive hero on achromatic.studio. Source lives in the Achromatic agency repo (`tools/hero-embed`); this repository only holds versioned builds served via jsDelivr.
 
 ```html
-<script type="module" src="https://cdn.jsdelivr.net/gh/<owner>/achromatic-hero@v1.0.0/achromatic-hero.js"></script>
+<script type="module" src="https://cdn.jsdelivr.net/gh/<owner>/achromatic-hero@v1.1.0/achromatic-hero.js"></script>
 ```
 
 Asset paths are relative to `achromatic-hero.js`, so each tag is self-contained.
